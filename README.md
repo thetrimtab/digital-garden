@@ -8,3 +8,5 @@ A dynamic, breathing map of ideas and thoughts that emerge from our ongoing conv
 We hope this serves two main purposes:
 1. document, organize, and support the ongoing development of our dialectic synthesis
 2. provide valuable insight to any curious mind
+
+Currently live at: https://thetrimtab.netlify.app/
