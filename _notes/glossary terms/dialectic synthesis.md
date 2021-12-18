@@ -1,2 +1,3 @@
 ---
 ---
+A process of evolution of ideas in which one idea (a "thesis") engages with another idea ("antithesis") until a higher-order combination of these ideas or a new, more complex idea arises ("synthesis"). The resulting “synthesis” can then serve as a new “thesis” to continue the process.  Dialectics are a major part of the philosophical and analytical method of philosophers such as Plato, Hegel, and Marx.

@@ -1,0 +1,3 @@
+---
+---
+Epistemology is the philosophical study of knowing and the nature of knowledge. It deals with questions such as “how does one know?” and “what is knowing, known, and knowledge?”. People sometimes speak of their personal epistemology or "epistemics," which is typically referring to what they believe, how they came to believe it, and how they tend to weigh various kinds of evidence and styles of argumentation. Epistemology is considered one of the four main branches of philosophy, along with ethics, logic, and metaphysics. The term “epistemology” stems from the Greek words “episteme” and “logos”. “Episteme” can be translated as “knowledge” or “understanding” or “acquaintance with”.  “Logos” can be translated as “account” or “argument” or “reason”.

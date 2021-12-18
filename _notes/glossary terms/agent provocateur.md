@@ -1,0 +1,3 @@
+---
+---
+Agent provocateur translates to “inciting incident” in French. It is used to reference individuals who attempt to persuade another individual or group to partake in a crime or rash behavior or to implicate them in such acts. This is done to defame, delegitimize, or criminalize the target. For example, starting a conflict at a peaceful protest or attempting to implicate a political figure in a crime.
