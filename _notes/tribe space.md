@@ -1,3 +1,107 @@
 ---
 ---
 Open ended group conversation. The source of most of the writing in this garden.
+
+[[ongoing areas of disagreement]]
+
+
+# 2021-12-18
+## raw notes
+- what is one skill everyone should have
+- dialectic synthesis
+- seeing the conversation between people as separate
+	- to separate from the ego
+	- embodying the synthesis - to see it as a separate thing
+	- a conversation can be seen as a separate thing
+	- also indicates the depth of miscommunication
+- crafting a separate "thing" with ideas, treat 
+- embodying the conversation as a "thing"
+- importance of active listening
+- seek to understand others perspectives before arguing
+- elevate humans capacity for understanding and dealing with complexity
+- seeking to embrace and understand complexity is a necessary skill in the modern world
+-  creating  a diety out of goals - anthromophising action, narratives
+	-  why do we anthropomorphize things
+	-  understanding other things through the lens of humans
+-  how deep our miscommunication is/can be
+-  relating with other people , how important it is to put aside ego
+	-  put aside ego and pride - takes humility to seek others perspectives
+-  find sense of self in our goals
+	-  if poking holes in that goal, then poking holes in identity
+	-  goal behind political leanings - showing interrelated goals
+	-  pointing out flaws in our line of thinking
+-  dig deep enough we all share fundamental values
+-  goals vs ideas
+	-  identy associated with goals, we believe ideas and goals are action oriented
+	-  goal - social validation
+-  empathy begets depth
+	-  a lot of mediums don't enable depth
+	-  trapped in the surface layer
+-  being wrong, really not scared of being wrong - but scared of 
+-  psychological safety as necessary to integrate feedback from other people
+	-  being wrong is hard, and being judged is difficult, if we have psychological safety
+-  fear based - opposite of psychological safety
+	-  deities, believe its something because not knowing is not an option
+	-  inherent understanding being in uncomfortable situation
+-  mytho-poetic narrative in religions, making people comfortable with circumstances they don't know anything about
+-  religion and spirituality as a means to be psychological comfortable with death
+- bringing the uncertain and unknown into the known - anthropomorphising, narratives, etc.
+- addiction to complexity?
+	- as long as any idea is part of identity, succeptible to zealotry
+- see these meetings as means to improve model
+	- something in the world that I care about, if have a better model, means can be more effective at working towards that goal
+	- get at whatever thing you care about
+- focusing on goals, rather than ideas, means being able to upgrade ideas
+- people really want a healthy relationship to the unknown, people want to be adaptable,
+	- increase the ability to do that
+	- healthy relationship with the unknown
+- competence about complexity and uncertainty, how to feel competent
+	- what does competence with uncertainty look like
+	- find your sphere of influence
+- the more you know, the more you know you don't know
+	- no choice but to come to grips with the unknown
+	- if going to continue functioning, need to have a healthy relationship with it
+- we do have the ability to update our models
+- coherent map of reality as possible
+- epistemic humility vs nihilism element
+	- that is the skill - epistemic humility
+		- what does it take to be epistemically humble?
+- narrative mapping - like what cynefin does
+	- do what humans are good at doing, like partial scanning info, telling stories, 
+	- distributed ethnography
+- how to get narrative maps of reality to converge with abstract, empirical maps
+- narrative mapping of reality
+	- adaptive or useful maps?
+	- assumes less or predicts more - 
+- what are heuristics of narratives - to guide their evolutionary development
+	- selection mechanisms of narratives?
+	- they definitely need to be tested
+- markov blankets
+	- usefulness and hinderance of creating barriers around things
+	- think what narrative is doing - creating compartments for things - creating a walled garden
+	- take things and compartmentalize
+	- like the constraints of alphabet - grammars of language
+	- grammars as a enabling constraint
+	- the alphabet as an enabling constraint for expressive capacity
+- constraints of human behaviour - how do we turn human boundaries into enabling constraints for social coherence
+- link up brains - how well can peoples eperience be mapped for other people
+- upgrade in grammatic capacities - 
+
+
+## processed notes
+- [[treating conversation threads as external entities allows for richer dialectic synthesis]]
+	-  By externalizing and relabelling ones map of reality, it becomes easier to seek others perspectives
+- [[sense of self is inherently coupled with our goals]]
+- dieties and narratives as maps for shared understanding
+- [[by associating our identity with goals, we can be more open to integrating new ideas]]
+- psychological safety vs fear
+	- [[psychological safety is a necessary precursor for epistemic humility]]
+- confronting uncertainty and complexity
+- [[the pursuit of comfort can prevent us from confronting uncertainty]] 
+- coherent maps of reality
+- epistemic humility
+- sphere of influence
+- working within the constraints of human behaviour
+- evolutionary development of narratives
+- boundaries, coherence, enabling constraints etc,
+- 

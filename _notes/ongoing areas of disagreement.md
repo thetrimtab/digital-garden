@@ -1,0 +1,1 @@
+- Clarify what we mean by goals vs ideas to help build out our thinking on how [[psychological safety is a necessary precursor for epistemic humility]]
